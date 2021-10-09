@@ -7,4 +7,5 @@ Biltema E14 RGB
 22 = Brightness White
 23 = Colortemp 
 24 = Color
+
 25 = Scene
